@@ -1,16 +1,13 @@
-## Hi there 👋
+header
 
-<!--
-**KonneyJ/konneyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me / Обо мне
 
-Here are some ideas to get you started:
+## Languages and Tools
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=097CDB)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-090909?style=for-the-badge&logo=spring&logoColor=F8C52C)
+![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=097CDB)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow me
