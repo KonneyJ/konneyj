@@ -3,7 +3,7 @@
 <p align="center">
 
 ## About Me / Обо мне
-I am a Java-developer with experience as a engineer. After the St. Petersburg-Moscow high-speed railway, nothing is intimidating. I pay close attention to details and I am ready to work as part of a team. In addition to programming languages, I study English, French and High Valyrian.
+I am a Java-developer with experience as an engineer. After the St. Petersburg-Moscow high-speed railway, nothing is intimidating. I pay close attention to details and I am ready to work as part of a team. In addition to programming languages, I study English, French and High Valyrian.
 
 Я - Java-разработчик с бэкграундом инженера-проектировщика (после ВСМ СПб-Москва ничего не страшно). Внимательна к деталям, готова работать в команде. Помимо языков программирования, изучаю английский, французский и высокий валирийский. 
 
