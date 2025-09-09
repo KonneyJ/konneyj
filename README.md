@@ -18,7 +18,7 @@ I am a Java-developer with experience as an engineer. I like to solve problems o
 
 Я - Java-разработчик с бэкграундом инженера-проектировщика. Люблю решать задачи на LeetCode. Помимо языков программирования, изучаю английский и французский.  
 
-## Contacts/Контакты
+## Contacts / Контакты
 Email✉️: konnovaJu@yandex.ru  
 [Хабр Карьера](https://career.habr.com/konneyj)   
 [LeetCode](https://leetcode.com/u/KonneyJ/)
