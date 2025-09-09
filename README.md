@@ -14,6 +14,11 @@
 ![Mockito](https://img.shields.io/badge/-mockito-090909?style=for-the-badge&logo=mockito&logoColor=90fd87)
 
 ## About Me / Обо мне
-I am a Java-developer with experience as an engineer. After the St. Petersburg-Moscow high-speed railway, nothing is intimidating. I pay close attention to details and I am ready to work as part of a team. In addition to programming languages, I study English, French and High Valyrian.
+I am a Java-developer with experience as an engineer. I like to solve problems on LeetCode. In addition to programming languages, I study English and French.
 
-Я - Java-разработчик с бэкграундом инженера-проектировщика (после ВСМ СПб-Москва ничего не страшно). Внимательна к деталям, готова работать в команде. Помимо языков программирования, изучаю английский, французский и высокий валирийский. 
+Я - Java-разработчик с бэкграундом инженера-проектировщика. Люблю решать задачи на LeetCode. Помимо языков программирования, изучаю английский и французский.  
+
+## Contacts/Контакты
+Email✉️: konnovaJu@yandex.ru  
+[Хабр Карьера](https://career.habr.com/konneyj)   
+[LeetCode](https://leetcode.com/u/KonneyJ/)
